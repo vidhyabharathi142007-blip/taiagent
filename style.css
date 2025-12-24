@@ -1,0 +1,47 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f2f2f2;
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+}
+
+.agent-box {
+  background: white;
+  padding: 15px;
+  max-width: 400px;
+  margin: auto;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.agent {
+  margin-bottom: 10px;
+  font-weight: bold;
+}
+
+input {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 10px;
+}
+
+button {
+  width: 100%;
+  padding: 10px;
+  background: green;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.result {
+  background: white;
+  margin: 20px auto;
+  padding: 15px;
+  max-width: 500px;
+  border-radius: 10px;
+  white-space: pre-line;
+}
